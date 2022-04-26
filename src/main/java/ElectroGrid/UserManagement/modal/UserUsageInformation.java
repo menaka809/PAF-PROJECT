@@ -8,6 +8,7 @@ public class UserUsageInformation {
 	private int noOfUnit;
 	private String month;
 	
+	
 	public UserUsageInformation() {
 		super();
 	}
